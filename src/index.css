@@ -9,8 +9,8 @@
 
 body {
   font-weight: 400;
-  color: #0c0c0c;
-  background: url(../public/employe_communication.gif) center;
+  color: #0d1393;
+  background: url(../public/employe_communication.gif) center no-repeat;
 
   min-height: 100vh;
 

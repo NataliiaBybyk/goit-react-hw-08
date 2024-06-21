@@ -5,12 +5,13 @@
   padding-top: 10px;
   padding-bottom: 10px;
   margin-bottom: 16px;
-  border-bottom: 1px solid #2a363b;
-  box-shadow: 0 5px 5px #888;
+  border-bottom: 1px solid #121212;
+  box-shadow: 0 5px 5px #f8f6f6;
+  background-color: #242cc9;
 }
 
 .header:hover,
 .header:focus {
-  border-color: #7277e3;
-  box-shadow: 0 5px 5px #7277e3;
+  border-color: #bfec0d;
+  box-shadow: 0 5px 5px #d4ed15;
 }

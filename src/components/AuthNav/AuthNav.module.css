@@ -3,10 +3,13 @@
   text-decoration: none;
   padding: 12px;
   font-weight: 700;
-  color: #f2f7f9;
-  background-color: rgb(40, 40, 243);
+  color: #fafafa;
 }
 
 .link.active {
   color: #e84a5f;
+}
+
+.link:focus {
+  color: #faf450;
 }
